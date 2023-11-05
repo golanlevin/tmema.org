@@ -1,0 +1,66 @@
+.text {
+	COLOR: #878773; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; LINE-HEIGHT: 13px
+}
+.textheller {
+	COLOR: #878773; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; LINE-HEIGHT: 13px
+}
+.textblack {
+	COLOR: #878773; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; LINE-HEIGHT: 13px
+}
+.headline {
+	COLOR: #878773; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; FONT-WEIGHT: bold
+}
+.link {
+	COLOR: #0083d7; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; LINE-HEIGHT: 13px; TEXT-DECORATION: none
+}
+.footer {
+	COLOR: #968c82; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; LINE-HEIGHT: 13px
+}
+.pulldown {
+	BACKGROUND-COLOR: #f0f0dc; BORDER-BOTTOM: 1px solid; BORDER-LEFT: 1px solid; BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; COLOR: #878773; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; WIDTH: 120px
+}
+.input {
+	BACKGROUND-COLOR: #d2d2b4; BORDER-BOTTOM: 1px solid; BORDER-LEFT: 1px solid; BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; WIDTH: 293px
+}
+.headlineCopy {
+	COLOR: #968c82; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; FONT-WEIGHT: bold
+}
+.textweiss {
+	COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; LINE-HEIGHT: 13px
+}
+.textblack {
+	COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; LINE-HEIGHT: 13px
+}
+.textheller {
+	COLOR: #d2d2b4; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; LINE-HEIGHT: 13px
+}
+.headlineBlack {
+	COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.reserved {
+	COLOR: #c8c3c3; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; FONT-STYLE: normal; LINE-HEIGHT: 13px
+}
+.reserved A:link {
+	COLOR: #c8c3c3; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; FONT-STYLE: normal; LINE-HEIGHT: 13px; TEXT-DECORATION: underline
+}
+.reserved A:hover {
+	COLOR: #c8c3c3; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; FONT-STYLE: normal; LINE-HEIGHT: 13px; TEXT-DECORATION: underline
+}
+.reserved A:visited {
+	COLOR: #c8c3c3; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; FONT-STYLE: normal; LINE-HEIGHT: 13px; TEXT-DECORATION: underline
+}
+.reserved A:active {
+	COLOR: #c8c3c3; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; FONT-STYLE: normal; LINE-HEIGHT: 13px; TEXT-DECORATION: underline
+}
+.linkweiss {
+	COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; LINE-HEIGHT: 13px; TEXT-DECORATION: none
+}
+.box {
+	COLOR: #73695f; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px
+}
+.headlineBIG {
+	COLOR: #878773; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 18px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.mittig {
+	COLOR: #878773; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; LINE-HEIGHT: 13px; VERTICAL-ALIGN: middle
+}

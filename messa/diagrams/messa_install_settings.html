@@ -1,0 +1,76 @@
+<html>
+<head>
+<title>MdV Computer Setup Instructions</title> <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1"> 
+<style TYPE="text/css">
+<!--
+body {  font-family: Georgia, "Times New Roman", Times, serif; font-size: 9pt}
+-->
+</style></head>
+
+<body BGCOLOR="#FFFFFF">
+<p><b>Messa di Voce Computer Setup Instructions</b><br>Version 1.0, 3 March 2006 
+-- golan<br>(Note that these instructions only discuss how to configure the PC....)</p><p><b>1. 
+</b>Assuming the hosts have given you a brand-new WindowsXP machine.<br>Make the 
+following <b>changes to the operating system</b>: </p><ul><li>open My Computer 
+: View : choose Details</li><li>open My Computer : Tools : Folder Options : General 
+: choose Use Windows Classic Folders</li><li>open My Computer : Tools : Folder 
+Options : View : Don't automatically search for network folders</li><li>open My 
+Computer : Tools : Folder Options : View : Display full path in the title bar</li><li>open 
+My Computer : Tools : Folder Options : View : Show hidden files and folders</li><li>open 
+My Computer : Tools : Folder Options : View : Don't hide extensions for known 
+file types</li><li>open My Computer : Tools : Folder Options : View : Don't hide 
+protected OS files</li><li>open My Computer : Tools : Folder Options : View : 
+Show control panel in My Computer</li><li>open My Computer : Tools : Folder Options 
+: View : Apply to All Folders : Yes</li></ul><ul><li>Desktop right click : Display 
+Properties : Themes : choose Windows Classic</li><li>Desktop right click : Display 
+Properties : Desktop : Color : choose Black</li><li>Desktop right click : Display 
+Properties : Screensaver : choose None</li><li>Desktop right click : Display Properties 
+: Screensaver : Monitor Power : set NEVER turn off monitor </li></ul><ul><li>Task 
+Bar right click : Properties : Task Bar tab : Don't Lock the Taskbar</li><li>Task 
+Bar right click : Properties : Start Menu tab : choose Classic Start Menu</li><li>Task 
+Bar right click : Properties : Start Menu tab : Customise..: choose Expand Control 
+Panel</li><li>Task Bar right click : Properties : Start Menu tab : Customise..: 
+choose Display Admin Tools</li><li>Task Bar right click : Properties : Start Menu 
+tab : Customise..: choose Show Small Icons</li><li>Task Bar right click : Properties 
+: Start Menu tab : Customise..: don't Use Personalized Menus</li></ul><ul><li>Desktop 
+right click : Display Properties : Settings : Advanced : nVidia geForce : Performance 
+&amp; Quality : Image Settings : choose high performance</li><li>Desktop right 
+click : Display Properties : Settings : Advanced : nVidia geForce : Performance 
+&amp; Quality : OpenGL settings: Vertical Sync: On or Off, whichever works better</li><li>Desktop 
+right click : Display Properties : Settings : Advanced : nVidia geForce : nView 
+Display Mode : choose Horizontal Span ( requires both LCD and Projector hooked 
+up)</li></ul><p><b>2. Now it's time to install Codewarrior</b>. <br>There are 
+3 upgrade packs that need to be installed, and a few important options and actions 
+to pay attention to. </p><ul><li>Install Winzip : choose Classic</li><li>extract 
+<b>CW8_DEV.zip</b></li><li>CW8_DEV : setup.exe : choose Full Install</li><li>say 
+Yes to &quot;Setup Environment Variables?&quot;</li><li>say Yes to &quot;Install 
+Sun JDK 1.3?&quot;</li><li>say No/Bypass to &quot;Perform Update Check?&quot;</li><li>don't 
+register, just close (restarts automatically).</li><li>install Codewarrior 8.1 
+Update Installer; restart.</li><li>install Codewarrior 8.2 Update Installer; restart.</li><li>install 
+Codewarrior 8.3 Update Installer; restart.</li><li>say YES to &quot;Rebuild Codewarrior 
+Libraries?&quot; Yes! press F7 to compile; wait; F7 again; close Codewarrior.</li></ul><p><b>3. 
+</b>We make sure that both the System and Codewarrior have the <b>correct version 
+of GLU, GLUT</b>.</p><ul><li>extract <b>glut_swap_in_CW.zip</b></li><li>open C:\Program 
+Files\Metrowerks\CodeWarrior\Win32-x86 Support\Libraries\Win32 SDK</li><li>swap 
+in the new version of glu32.lib</li><li>open C:\Program Files\Metrowerks\CodeWarrior\Win32-x86 
+Support\Headers\Win32 SDK\gl</li><li>swap in the new version of glu.h, glut.h</li><li>open 
+C:\WINDOWS\SYSTEM32</li><li>swap in the new version of glu32.dll</li></ul><p><b>4. 
+</b>We<b> install IPP </b>(Intel Performance Primitives). <br>Note that there 
+is an update pack with an annoying install method:</p><ul><li>install <b>ipp20win.exe</b> 
+into the location: C:\Program Files\Intel\IPP </li><li>extract the update pack, 
+<b>w_ipp_pu01_2.0.003.e.zip</b> into a temporary location</li><li>drag each of 
+the folders in the extracted location, into the corresponding location in C:\Program 
+Files\Intel\IPP.<br>This has the effect of replacing the necessary files with 
+their new versions. </li></ul><p><b>5.</b> We install <b>OpenCV</b>:</p><ul><li>install 
+<b>OpenCV_b3.exe</b> to C:\Program Files\Intel\OpenCV</li><li>say YES to add OpenCV 
+to the System Path</li><li>ignore the error, &quot;unable to execute file, RegisterAll.bat&quot;</li></ul><p><b>6.</b> 
+Install the <b>Powermate Knob</b>:</p><ul><li>install the powermate knob driver</li><li>install 
+the powermate knob</li><li>set the knob on the slowest speed</li><li>in the Powermate 
+control panel, set User Action: Rotate Right to Computer Action: Cursor Right</li><li>in 
+the Powermate control panel, set User Action: Rotate Left to Computer Action: 
+Cursor Left</li><li>in the Powermate control panel, set User Action: Click &amp; 
+Rotate Right to Computer Action: Cursor Right</li><li>in the Powermate control 
+panel, set User Action: Click &amp; Rotate Left to Computer Action: Cursor Left</li></ul><p>That's 
+all I have notes for... </p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+</body>
+</html>

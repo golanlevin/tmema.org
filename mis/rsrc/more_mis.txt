@@ -1,0 +1,68 @@
+Hi friends and colleagues,
+My partner Zachary and I will be premiering a new performance at   
+The Kitchen this Friday and Saturday. Please come catch a first glimpse
+at a work-in-progress in a rare U.S. appearance! Information follows.
+
+
+Performing Technology at The Kitchen
+From the 2004 Whitney Biennial
+April 30 (Fri) and May 1 (Sat): 8pm, $12
+http://www.thekitchen.org/04S_april.html
+512 West 19th Street, NYC
+Tel: 212-255-5793
+
+Live digital samplings from the 2004 Whitney Biennial. Anti-fi techno-punk
+feminist Tracy + The Plastics spins a fractured multimedia video art
+experiment in the politics of identity and sexuality. Golan Levin, creator
+of the Dialtones Telesymphony (2001), collaborates with artist-engineer
+Zachary Lieberman on an audiovisual piece probing "the subtleties of
+manual expression." Topping off the evening is Cory Arcangel from BEIGE,
+an art group who has pioneered the practice of hacking obsolete 8bit
+computers and video game systems, and was hailed by the New York Times as
+one of 2002's "Top Ten Art Moments."
+
+
+
+--------------------------------------------------------------------
+"The Manual Input Sessions" (2004)
+The Manual Input Sessions is a series of audiovisual vignettes which probe
+the expressive possibilities of hand gestures and finger movements. We
+present it as a first glimpse of a work-in-progress.
+
+Our concert is performed on a combination of custom interactive software,
+analog overhead projectors and digital computer video projectors.  The   
+analog and digital projectors are aligned such that their projections    
+overlap, resulting in an unusual quality of hybridized, dynamic light.   
+During the performance, a computer vision system analyzes the silhouettes
+of the performers' hands as they scribble on transparencies and move
+across the glass tops of the overhead projectors.  The hand gestures and
+transparency drawings are then analyzed by our custom software.  In
+response, our software generates synthetic graphics and sounds that are
+tightly coupled to the forms and movements of the performers actions.
+The synthetic responses are co-projected with the organic, analog
+shadows, resulting in an almost magical form of augmented-reality shadow
+play.
+
+Golan Levin is an artist, engineer and composer interested in developing
+artifacts and events which explore supple new modes of interactive
+expression.  His work focuses on the design of systems for the creation,
+manipulation and performance of simultaneous image and sound, as part of a
+more general inquiry into non-verbal communications protocols in
+cybernetic systems.  He is known for the conception and creation of
+"Dialtones" (2001), a concert whose sounds are wholly performed through
+the carefully choreographed dialing and ringing of the audience's own
+mobile phones, and for "The Secret Lives of Numbers" (2002), an
+interactive online data visualization featured in the 2004 Whitney
+Biennial.  Levin is Assistant Professor of Electronic Art at Carnegie
+Mellon University. (http://www.flong.com)
+
+Zachary Lieberman is an artist, engineer and educator whose work explores
+the creative and human uses of technology.  He produces installations,   
+on-line works and concerts concerned with the themes of kinetic and      
+gestural performance, interactive imaging and sound synthesis.  Lieberman
+lives and works in New York City, where he teaches courses in audiovisual
+synthesis and creative image processing at Parsons School of Design.  Most
+recently, Lieberman and Levin have premiered several works exploring the
+possibilities of real-time speech analysis, including "RE:MARK" (2002), an
+interactive installation, and "Messa di Voce" (2003), an interactive-media
+performance.  (http://www.thesystemis.com)

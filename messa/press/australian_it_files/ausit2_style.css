@@ -1,0 +1,102 @@
+A {
+	COLOR: #336699; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.leftnav {
+	COLOR: #ffff66; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold
+}
+A.topic {
+	COLOR: #336699; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+A:active {
+	COLOR: #336699; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #6699cc; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #cc0000; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.topnavhead {
+	COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; FONT-WEIGHT: bold; LETTER-SPACING: 1px; LINE-HEIGHT: 16px
+}
+.topnavheadbold {
+	COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-LEFT: 15px
+}
+.greybold9 {
+	COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; FONT-WEIGHT: normal; MARGIN-LEFT: 10px
+}
+.bluetext11 {
+	COLOR: #336699; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: normal; LETTER-SPACING: 1px
+}
+.yellowHeadline {
+	COLOR: #ffff66; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold
+}
+.leftnavheadbold {
+	COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold; LETTER-SPACING: 1px; MARGIN-LEFT: 7px
+}
+.leftnavtext {
+	COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; FONT-WEIGHT: normal; PADDING-BOTTOM: 2px
+}
+.arrowblue {
+	COLOR: #336699; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.bluetextheader {
+	COLOR: #336699; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; FONT-WEIGHT: normal
+}
+.blueindent5 {
+	COLOR: #336699; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; FONT-WEIGHT: normal; MARGIN-LEFT: 5px
+}
+.footer {
+	COLOR: #336699; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; FONT-WEIGHT: normal
+}
+.bigheader17 {
+	COLOR: #b9b9b9; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 17pt; FONT-WEIGHT: normal; MARGIN-LEFT: 15px
+}
+.mainnewsheader {
+	COLOR: #336699; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 13pt; FONT-WEIGHT: bold
+}
+.blacknewsheader {
+	COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 14pt; FONT-WEIGHT: bold
+}
+.blacktopicheader {
+	COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.mainnewsheader1 {
+	COLOR: #336699; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 14pt; FONT-WEIGHT: bold
+}
+.blackbodytext {
+	COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; FONT-WEIGHT: normal
+}
+.bluebodytext {
+	COLOR: #003366; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: normal
+}
+.greybodytext {
+	COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: normal
+}
+.greyheadline {
+	COLOR: #999999; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; FONT-WEIGHT: normal
+}
+.greydate {
+	COLOR: #999999; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; FONT-WEIGHT: normal
+}
+.forms {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: normal; WIDTH: 150px
+}
+.emailfriendforms {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: normal; WIDTH: 200px
+}
+.formtext {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: normal
+}
+.black8 {
+	COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; FONT-WEIGHT: normal
+}
+.htmlnav {
+	COLOR: #004b96; FONT-FAMILY: Arial; FONT-SIZE: 8pt; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.relatedstories {
+	COLOR: #999999; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.relatedstoriesdate {
+	COLOR: #999999; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; FONT-WEIGHT: normal
+}
